@@ -27,7 +27,7 @@ Refrigerators in campus cafeterias, restaurants, and bakeries are massive consum
 | **Backend** | Node.js, Express |
 | **Database** | MongoDB |
 | **APIs** | Geolocation API, Push Notifications, Twilio (SMS) |
-| **Payments** | Stripe (for optional donations to food rescue) |
+| **Payments** | Stripe (for optional donations to food rescue)  |
 
 ## 🚀 Getting Started
 
