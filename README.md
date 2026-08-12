@@ -1,7 +1,8 @@
 ﻿# 🧊 Opti Fridge 
 **Save Food, Save Energy, Feed the Community.**
 
-![Opti Fridge Banner](https://via.placeholder.com/1000x300?text=Opti+Fridge+-+Food+%26+Energy+Waste+Reduction)
+![Opti Fridge Banner](https://placehold.co/1000x300/4CAF50/FFFFFF?text=Opti+Fridge+-+Food+%26+Energy+Waste+Reduction)
+
 
 ## 🌍 The Problem
 Refrigerators in campus cafeterias, restaurants, and bakeries are massive consumers of electricity. Unfortunately, a huge portion of that energy is wasted cooling food that eventually expires and gets thrown away. While students and local communities face food insecurity, edible food sits in commercial fridges past its prime. This creates a double-negative environmental impact: greenhouse gases from rotting food in landfills, and wasted electricity from cooling doomed inventory.
